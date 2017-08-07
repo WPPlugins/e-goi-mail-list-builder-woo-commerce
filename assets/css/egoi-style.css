@@ -1,0 +1,42 @@
+.egoi_widget_style{
+
+}
+
+.egoi_widget_style .widget-text input{
+    width:100%;
+    margin-bottom: 10px;
+}
+
+.egoi_widget_style .widget-text-selectdiv {
+    margin-bottom: 10px;
+}
+
+.egoi_widget_style .widget-text-selectdiv {
+    margin-bottom: 10px;
+}
+
+.egoi_widget_style .widget-text-select {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 6px;
+    width: 100%;
+}
+
+.egoi_widget_style .mustfill{
+    color:red;
+}
+
+.egoi_widget_style .submit-button{
+    margin-bottom: 15px;
+    width:100%;
+}
+
+.egoi_widget_style .loading-image{
+    display: none;
+    width: 24px;
+    margin: 0 auto;
+}
+
+.egoi_widget_style .errorcenter{
+    text-align:center;
+}
